@@ -1,1 +1,2 @@
 # Text-Analytics
+This project categorizes customer reviews and perform a sentimental analysis of them. The goal of this project was to first group the reviews into different categories such as 'delivery', 'food taste', etc. The reviews were categorized using both multi-class and multi-label models. Once the reviews were categorized, a multi-class classifier model to perform sentiment analysis on each review and determine whether the feedback was positive or negative
